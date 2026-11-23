@@ -7,7 +7,7 @@ dashboard for Amazon India sales data. The dashboard is intended to help
 business stakeholders review sales, profit, products, orders, payment
 methods, fulfilment, and geographic performance in one place.
 
-The project was completed as part of the **Sapphire IQ Business
+The project was completed as part of the **Sapphire IQ Data
 Analytics** program.
 
 ## Business Objectives
