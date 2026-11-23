@@ -72,4 +72,3 @@ The main deliverable is the Excel-based Amazon India Sales Dashboard.
 
 ------------------------------------------------------------------------
 
-**Program:** Sapphire IQ --- Business Analytics
